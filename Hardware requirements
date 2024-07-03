@@ -1,0 +1,14 @@
+Ultrasonic Sensors:
+Ultrasonic sensors emit and receive ultrasonic waves to detect motion and objects within their range .The number of sensors depends on the size and layout of the protected area. Typically, multiple sensors are placed strategically to cover all entry points and sensitive areas.
+
+Passive Infrared (PIR) Sensors:
+PIR sensors detect changes in heat radiation caused by moving objects, such as humans or animals .Like ultrasonic sensors, PIR sensors should be strategically placed to cover all relevant areas.
+
+Buzzer :
+A loud buzzer or siren is essential to sound the alarm when an intrusion is detected .The volume and audibility of the alarm should be sufficient to alert occupants and potentially deter intruders.
+
+Power Supply:
+A power supply, such as a rechargeable battery, ensures the system remains operational during power outages.
+
+Microcontroller :
+It serves as the central processing unit that coordinates the operation of the various components and executes the logic required to detect intrusions and trigger alarms.
