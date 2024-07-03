@@ -1,0 +1,7 @@
+The ultrasonic sensor emits high-frequency sound waves (ultrasonic waves) into the environment . These sound waves travel through the air and bounce off objects in their path .The sensor measures the time it takes for the sound waves to return after hitting an object.
+
+The PIR sensor consists of a sensor element that detects changes in the infrared radiation emitted by objects with a temperature different from the background . It has a sensor lens that divides its field of view into multiple zones.
+
+When an intruder enters the protected area, they may move, creating a change in the heat signature (infrared radiation) detected by the PIR sensor. Simultaneously, the ultrasonic sensor monitors for any movement or changes in the distance between objects in its field of view. If the PIR sensor detects a change in heat and the ultrasonic sensor detects movement or a change in the reflected sound waves, both sensors trigger an alarm event.
+T
+he alarm system processes the signals from the sensors and determines that an intrusion has occurred. Upon confirmation of an intrusion, the system activates the loud buzzer.
